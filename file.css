@@ -1,0 +1,29 @@
+body{
+    background-color: cornflowerblue;
+}
+.nav{
+    background-color:aqua;
+    text-align:right;
+    z-index:1000;
+}
+.list{
+    display:inline-block;
+    margin:10px
+}   
+li{
+    display: inline;
+    margin-right: 30px
+}
+.home{
+    background-color: grey;
+    border-radius: 30px;
+}
+img{
+    margin-right:50px;
+    margin-left:auto;
+    display:block;
+    margin-top:10px;
+    border-radius:100px;
+    
+}
+
